@@ -1,0 +1,263 @@
+[
+    {
+        "id":1,
+        "name":"A Brief History of Time",
+         "title":"Lorem, ipsum dolor sit amet  consectetur adipisincing elit consectetur adipisincing elit .",
+         "price":"$0",
+         "category":"Free",
+         "author": "Stephen Hawking",
+         "genre": "Story",
+        "rating":"4.8",
+         "image":"https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-96490.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":2,
+        "name":"The Monk Who Sold Ferrari",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$30",
+         "category":"Paid",
+          "author": "Robin Sharma",
+         "genre": "Music",
+         "rating":"3.0",
+         "image":"https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103366.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":3,
+        "name":"Rich Dad Poor Dad",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "Robert Kiyosaki",
+          "genre": "Comedy",
+            "rating":"3.9",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149296603.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":4,
+        "name":"Life’s Amazing Secrets",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$50",
+         "category":"Paid",
+         "author": "Gaur Gopal Das",
+         "genre": "Sports",
+           "rating":"4.9",
+         "image":"https://img.freepik.com/free-psd/sport-outside-poster-template-concept_23-2148603583.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":5,
+        "name":". One Indian Girl",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+         "author": "Chetan Bhagat",
+         "genre": "History",
+           "rating":"4.0",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":6,
+        "name":"Life’s Amazing Secrets",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$69",
+         "category":"Paid",
+          "author": "Gaur Gopal Das",
+          "genre": "Adventure",
+         "rating":"3.7",
+         "image":"https://img.freepik.com/premium-photo/rpg-ranger-isometric-rpg-item-object-rpg-game-generative-ai_742252-9258.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":7,
+        "name":"You Can Win",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "Shiv Khera",
+          "genre": "Fantasy",
+        "rating":"3.2",
+         "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007399.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":8,
+        "name":" Think and Grow Rich",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$25",
+         "category":"Paid",
+          "author": "Napoleon Hill",
+          "genre": "Romantic",
+        "rating":"3.9",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":9,
+        "name":" Animal Farm",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "George Orwell",
+          "genre": "Mystery",
+        "rating":"4.4",
+         "image":"https://img.freepik.com/free-photo/turn-page-collage_23-2149876302.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":10,
+        "name":" Pride and Prejudice",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "George Orwell",
+          "genre": "Poetry",
+         "rating":"3.8",
+         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149314745.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":11,
+        "name":"Wings of Fire",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$16",
+         "category":"Paid",
+          "author": "J.K. Rowling",
+          "genre": "Horror",
+          "rating":"3.0",
+         "image":"https://img.freepik.com/premium-photo/book-floating-water_911620-21851.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":12,
+        "name":"Pride and Prejudice",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$49",
+         "category":"Paid", 
+         "author": "Khaled Hosseini",
+         "genre": "Technology",
+         "rating":"3.2",
+         "image":"https://img.freepik.com/free-vector/isometric-online-education-concept_52683-8896.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":13,
+        "name":"The Catcher in the Rye",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "J.D. Salinger",
+          "genre": "Biography",
+          "rating":"4.2",
+         "image":"https://img.freepik.com/free-psd/luxury-men-s-fashion-poster-template_23-2150842505.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":14,
+        "name":"Pride and Prejudice",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "Jane Austen",
+          "genre": "Horror",
+           "rating":"4.8",
+         "image":"https://img.freepik.com/free-photo/front-view-woman-with-human-skull_23-2148275509.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":15,
+        "name":"To Kill a Mockingbird",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "J.K. Rowling",
+          "genre": "History",
+         "rating":"3.5",
+         "image":"https://img.freepik.com/free-psd/world-book-day-celebration-poster-template_23-2151304660.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":16,
+        "name":"Think and Grow Rich",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "Napoleon Hill",
+          "genre": "Technology",
+           "rating":"3.8",
+         "image":"https://img.freepik.com/free-vector/education-concept-set_1284-4734.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":17,
+        "name":"Mystery Book",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"paid",
+          "author": "J.K. Rowling",
+          "genre": "Mystery",
+         "rating":"4.2",
+         "image":"https://img.freepik.com/free-photo/sorceress-casting-spell-woods-daytime_23-2147902908.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":18,
+        "name":"Revolution 2020",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"Free",
+          "author": "Chetan Bhagat",
+          "genre": "Biography",
+          "rating":"3.5",
+         "image":"https://img.freepik.com/free-psd/flat-design-music-template-design_23-2150399076.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":19,
+        "name":"The Great Gatsby",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"paid",
+         "author": "F. Scott Fitzgerald",
+         "genre": "Fantasy",
+         "rating":"3.5",
+         "image":"https://img.freepik.com/free-vector/flat-music-education-school-invitation-template_23-2150012782.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    },
+
+    {
+        "id":20,
+        "name":"The Kite Runner",
+         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "price":"$0",
+         "category":"paid",
+         "author": "Khaled Hosseini",
+         "genre": "Sports",
+         "rating":"4.5",
+         "image":"https://img.freepik.com/free-psd/flat-design-american-football-invitation-template_23-2150736449.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         
+    }
+
+
+]
