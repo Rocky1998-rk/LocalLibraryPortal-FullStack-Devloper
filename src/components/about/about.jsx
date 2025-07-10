@@ -41,6 +41,7 @@ const about = () => {
         </div>
       </div>
     </div>
+
   );
 };
 

@@ -27,7 +27,7 @@ const navbar = () => {
 
     const navItems = (
     <>
-        <li className='text-[16px]'>
+        <li className='text-[16px] '>
             <Link to={'/'}>Home</Link>
         </li>
         <li className='text-[16px]'>
@@ -44,11 +44,11 @@ const navbar = () => {
 
   return (
   <>
-    <div className={`max-w-screen-2xl container mx-auto md:px-20 px-4 fixed top-0 left-0 right-0 z-999 ${sticky ? 'sticky-navbar shadow-md bg-base-200 duration-300 transition-all ease-in-out' : ""}`}>
+    <div className={`max-w-screen-2xl bg-[#1e2939] container mx-auto md:px-20 px-4 fixed top-0 left-0 right-0 z-999 ${sticky ? 'sticky-navbar shadow-lg bg-[#1e2939] duration-300 transition-all ease-in-out' : ""}`}>
     <div className="navbar">
      <div className="navbar-start py-5">
       <div className="dropdown">
-      <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden">
+      <div tabIndex={0} role="button" className="btn btn-ghost lg:hidden text-white">
         <svg xmlns="http://www.w3.org/2000/svg" className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"> <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h8m-8 6h16" /> </svg>
       </div>
       <ul
@@ -57,11 +57,11 @@ const navbar = () => {
         {navItems}
       </ul>
     </div>
-    <a className="text-2xl font-bold cursor-pointer">LibraryPortal</a>
+    <a className="text-2xl font-bold cursor-pointer text-white">Library Portal</a>
   </div>
   <div className='navbar-end space-x-4'>
   <div className="navbar-center hidden lg:flex">
-    <ul className="menu menu-horizontal px-1">
+    <ul className="menu menu-horizontal px-1 text-white">
       {navItems}
     </ul>
   </div>
@@ -80,7 +80,7 @@ const navbar = () => {
 
      {authUser ? (<Logout/> ) : (
       <div className="">
-    <a className=" bg-black text-white px-3.5 py-2.5 rounded-md hover:bg-slate-800 duration-300 cursor-pointer" onClick={() => document.getElementById("my_modal_3").showModal()}>Login</a>
+    <a className=" bg-green-600 text-white px-3.5 py-2.5 rounded-md hover:bg-green-800 duration-300 cursor-pointer" onClick={() => document.getElementById("my_modal_3").showModal()}>Login</a>
     <Login/>
   </div>)}
 </div>

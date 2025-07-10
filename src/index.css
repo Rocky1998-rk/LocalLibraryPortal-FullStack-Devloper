@@ -1,9 +1,31 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 @import "tailwindcss";
 @plugin "daisyui";
 
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 body{
     font-family: 'poppins', sans-serif;
+}
+
+.header-content{
+    min-height: 80vh;
+    background: linear-gradient(#8d27ae4d, rgba(141, 39, 174, 0.4)), url("../public/library-img.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    flex-direction: column;
+}
+
+.header-title{
+    font-size: 3.2rem;
+    font-weight: 600;
+}
+
+.header-text{
+    margin-top: -1.8rem;
+    margin-bottom: .5rem;
+    line-height: 24px;
+    opacity: 0.8;
+    max-width: 650px;
 }

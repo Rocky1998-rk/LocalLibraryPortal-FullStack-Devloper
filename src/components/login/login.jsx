@@ -13,7 +13,7 @@ const login = () => {
         console.log("user", userData)
           
          try {
-          const response = await axios.post("http://localhost:3000/api/login", userData)
+          const response = await axios.post("https://libraryserver-2.onrender.com/api/login", userData, {withCredentials: true});
            console.log("userData", response.data)
            toast.success("Login Successfully")
             document.getElementById("my_modal_3").close();
@@ -24,8 +24,8 @@ const login = () => {
             
           reset(); 
          } catch (error) {
-          console.log(error.message)
-          toast.error("Cannot User data")
+          console.log("Login Error =>", error.response?.data || error.message);
+          toast.error(error.response?.data?.message || "Login failed");
           setTimeout(() => {}, 2000)
          }
 
@@ -63,7 +63,7 @@ const login = () => {
 
        <div className=' flex items-center justify-between mt-10 '>
         <button type='submit' className='bg-pink-500 text-white rounded-md px-3 py-2 hover:bg-pink-700 duration-200'>Login</button>
-        <p>Not registered?{""}
+        <p className='text-sm'>Not registered?{""}
             <Link to={"/signup"}><span className='underline text-blue-500 cursor-pointer'> Signup</span>{""}</Link>
             </p>
        </div>

@@ -11,22 +11,23 @@ const banner = () => {
     <p className='text-xl'>
         Lorem ipsum dolor, sit amet consectetur adipisicing elit. At aspernatur deserunt doloribus tempora magni obcaecati culpa nam vero saepe, sequi expedita! 
     </p>
-    <label className="input validator">
+    <label className="input validator floating-label">
      <svg className="h-[1em] opacity-50" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
     <g strokeLinejoin="round" strokeLinecap="round" strokeWidth="2.5" fill="none" stroke="currentColor">
       <rect width="20" height="16" x="2" y="4" rx="2"></rect>
       <path d="m22 7-8.97 5.7a1.94 1.94 0 0 1-2.06 0L2 7"></path>
       </g>
      </svg>
+     <span>Your Email</span>
      <input type="email" placeholder="mail@site.com" required/>
     </label>
      {/* <div className="validator-hint hidden">
         <p>Enter valid email address</p>
      </div> */}
     </div>
-     <button className="btn mt-6 btn-secondary">Get Started</button>
+     <button className="mt-6 bg-pink-500 cursor-pointer text-white px-4 py-2 rounded-md hover:bg-pink-700 duration-300">Get Started</button>
     </div>
-    <div className='order-1 w-full md:w-1/2'>
+    <div className='order-1 w-full mt-10 md:w-1/2'>
         <img src={Image}  alt="" />
     </div>
     </div>

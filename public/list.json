@@ -1,261 +1,244 @@
 [
     {
-        "id":1,
         "name":"A Brief History of Time",
-         "title":"Lorem, ipsum dolor sit amet  consectetur adipisincing elit consectetur adipisincing elit .",
+         "title":"A Brief History of Time explains the universe's mysteries in simple scientific terms.",
          "price":"$0",
          "category":"Free",
          "author": "Stephen Hawking",
-         "genre": "Story",
-        "rating":"4.8",
-         "image":"https://img.freepik.com/free-vector/open-book-forest-theme-white-background_1308-96490.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "genre": "Science",
+         "rating":"4.8",
+         "image":"https://johnatkinsonbooks.co.uk/wp-content/uploads/2018/07/BriefHistory.jpg"
          
     },
 
     {
-        "id":2,
         "name":"The Monk Who Sold Ferrari",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"The Monk Who Sold His Ferrari teaches life purpose, balance, and inner peace.",
          "price":"$30",
          "category":"Paid",
           "author": "Robin Sharma",
-         "genre": "Music",
+         "genre": "Motivational",
          "rating":"3.0",
-         "image":"https://img.freepik.com/free-photo/beautifully-illustrate-musical-instrument_23-2151103366.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://images.tokopedia.net/img/cache/500-square/VqbcmM/2021/6/25/c2e22dee-ee5a-4a49-8a15-ab7bc30dc211.jpg"
          
     },
 
     {
-        "id":3,
         "name":"Rich Dad Poor Dad",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"Rich Dad Poor Dad teaches financial literacy, investing, and mindset for wealth.",
          "price":"$0",
          "category":"Free",
           "author": "Robert Kiyosaki",
-          "genre": "Comedy",
+          "genre": "Non-Fiction",
             "rating":"3.9",
-         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149296603.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://gregory.ph/cdn/shop/products/BuyRichDadPoorDadinPhilippines-3_949c6c8a-0fb9-4c99-80d6-920b36dac648.jpg?v=1626535585"
          
     },
 
     {
-        "id":4,
-        "name":"Life’s Amazing Secrets",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+        "name":"Awaken the Giant Within",
+         "title":"Awaken the Giant Within empowers mindset, decisions, emotions, and lasting change.",
          "price":"$50",
          "category":"Paid",
-         "author": "Gaur Gopal Das",
-         "genre": "Sports",
-           "rating":"4.9",
-         "image":"https://img.freepik.com/free-psd/sport-outside-poster-template-concept_23-2148603583.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
-         
+         "author": "Tony Robbins",
+         "genre": "Self-Mastery",
+           "rating":"4.1",
+         "image":"https://gregory.ph/cdn/shop/products/BuyAwakentheGiantWithininthePhilippines2.jpg?v=1645438847"
+     
     },
 
     {
-        "id":5,
-        "name":". One Indian Girl",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
-         "category":"Free",
+
+        "name":"One Indian Girl",
+         "title":"One Indian Girl explores a woman's struggle with love, career, and identity.",
+         "price":"$25",
+         "category":"Paid",
          "author": "Chetan Bhagat",
          "genre": "History",
            "rating":"4.0",
-         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341897.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://m.media-amazon.com/images/I/81wb8F-YniL._UF894,1000_QL80_DpWeblab_.jpg"
          
     },
 
     {
-        "id":6,
-        "name":"Life’s Amazing Secrets",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+        "name":"Energize Your Mind",
+         "title":"Energize Your Mind teaches control over thoughts, emotions, anxiety, and focus.",
          "price":"$69",
          "category":"Paid",
           "author": "Gaur Gopal Das",
-          "genre": "Adventure",
+          "genre": "Motivation",
          "rating":"3.7",
-         "image":"https://img.freepik.com/premium-photo/rpg-ranger-isometric-rpg-item-object-rpg-game-generative-ai_742252-9258.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://m.media-amazon.com/images/I/41NV-c+vT+L._SL500_.jpg"
          
     },
 
     {
-        "id":7,
+
         "name":"You Can Win",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"You Can Win motivates readers to develop confidence, goals, and positive thinking daily.",
          "price":"$0",
          "category":"Free",
           "author": "Shiv Khera",
-          "genre": "Fantasy",
+          "genre": "Motivational",
         "rating":"3.2",
-         "image":"https://img.freepik.com/free-photo/international-day-education-cartoon-style_23-2151007399.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://www.narodabook.com/wp-content/uploads/2024/08/Buy-You-Can-Win-By-Shiv-Khera-english-book-online-2024.png"
          
     },
 
     {
-        "id":8,
-        "name":" Think and Grow Rich",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+
+        "name":" Life’s Amazing Secrets",
+         "title":"Life’s Amazing Secrets guides living with balance, purpose, happiness, and peace.",
          "price":"$25",
          "category":"Paid",
-          "author": "Napoleon Hill",
-          "genre": "Romantic",
+          "author": "Gaur Gopal Das",
+          "genre": "Life Guidance",
         "rating":"3.9",
-         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://www.eourmart.com/cdn/shop/products/41ES5MknpUL.jpg?v=1662551724"
          
     },
 
     {
-        "id":9,
-        "name":" Animal Farm",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
-         "category":"Free",
-          "author": "George Orwell",
-          "genre": "Mystery",
-        "rating":"4.4",
-         "image":"https://img.freepik.com/free-photo/turn-page-collage_23-2149876302.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
-         
-    },
-
-    {
-        "id":10,
-        "name":" Pride and Prejudice",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
-         "category":"Free",
-          "author": "George Orwell",
-          "genre": "Poetry",
-         "rating":"3.8",
-         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-poetry-illustration_23-2149314745.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
-         
-    },
-
-    {
-        "id":11,
-        "name":"Wings of Fire",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$16",
+        "name":"Animal Farm",
+         "title":"Animal Farm shows political corruption through a satirical story of rebellious animals.",
+         "price":"$35",
          "category":"Paid",
-          "author": "J.K. Rowling",
-          "genre": "Horror",
-          "rating":"3.0",
-         "image":"https://img.freepik.com/premium-photo/book-floating-water_911620-21851.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+          "author": "George Orwell",
+          "genre": "Classic Literature",
+        "rating":"4.4",
+         "image":"https://www.maplepress.co.in/cdn/shop/products/9789380005218.jpg?v=1624805580"
          
     },
 
     {
-        "id":12,
+        "name":"The Waste Land",
+         "title":"The Waste Land explores chaos, despair, and disillusionment in modern life.",
+         "price":"$0",
+         "category":"Free",
+          "author": "T. S. Eliot",
+          "genre": "Modernist Poetry",
+         "rating":"3.8",
+         "image":"https://m.media-amazon.com/images/I/51ypAg-R6RL._SL500_.jpg"
+         
+    },
+
+    {
+        "name":"Wings of Fire",
+         "title":"Wings of Fire inspires dreams, hard work, and success through Dr. Kalam’s journey.",
+         "price":"$28",
+         "category":"Paid",
+          "author": " Dr. Kalam",
+          "genre": "Autobiography",
+          "rating":"3.0",
+         "image":"https://5.imimg.com/data5/SELLER/Default/2023/1/ZG/UM/EB/146863476/wings-of-fire-an-autobiography-500x500.png"
+         
+    },
+
+    {
         "name":"Pride and Prejudice",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"Pride and Prejudice explores love, pride, prejudice, and class in society.",
          "price":"$49",
          "category":"Paid", 
-         "author": "Khaled Hosseini",
-         "genre": "Technology",
+         "author": "Jane Austen",
+         "genre": "Classic Literature",
          "rating":"3.2",
-         "image":"https://img.freepik.com/free-vector/isometric-online-education-concept_52683-8896.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://www.bhphotovideo.com/cdn-cgi/image/fit=scale-down,width=500,quality=95/https://www.bhphotovideo.com/images/images500x500/BARSKA_AX11682_REAL_PAPER_BOOK_SAFE_1500572587_851592.jpg"
          
     },
 
     {
-        "id":13,
         "name":"The Catcher in the Rye",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
-         "category":"Free",
+         "title":"The Catcher in the Rye explores teenage angst, identity, and emotional isolation.",
+         "price":"$29",
+         "category":"Paid",
           "author": "J.D. Salinger",
-          "genre": "Biography",
+          "genre": "Literary Fiction",
           "rating":"4.2",
-         "image":"https://img.freepik.com/free-psd/luxury-men-s-fashion-poster-template_23-2150842505.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://static.wixstatic.com/media/5d5e52_7a9eea9075d04b0b8148339e1f17a09b.jpg/v1/fit/w_500,h_500,q_90/file.jpg"
          
     },
 
     {
-        "id":14,
-        "name":"Pride and Prejudice",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+        "name":"The Exorcist",
+        "title":"The Exorcist portrays a chilling battle between good and evil through possession.",
          "price":"$0",
          "category":"Free",
-          "author": "Jane Austen",
-          "genre": "Horror",
-           "rating":"4.8",
-         "image":"https://img.freepik.com/free-photo/front-view-woman-with-human-skull_23-2148275509.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "author": "William Peter Blatty",
+         "genre": "Horror",
+         "rating":"4.8",
+         "image":"https://bookshopapocalypse.com/cdn/shop/products/exorcist-2_1200x1200.jpg?v=1596136390"
          
     },
 
     {
-        "id":15,
         "name":"To Kill a Mockingbird",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
-         "category":"Free",
-          "author": "J.K. Rowling",
-          "genre": "History",
+         "title":"To Kill a Mockingbird explores justice, racism, and morality in Southern society.",
+         "price":"$30",
+         "category":"Paid",
+          "author": "Harper Lee",
+          "genre": "Classic Literature",
          "rating":"3.5",
-         "image":"https://img.freepik.com/free-psd/world-book-day-celebration-poster-template_23-2151304660.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://5.imimg.com/data5/SELLER/Default/2023/3/LF/GV/VY/147952517/to-kill-a-mockingbird-by-harper-lee-500x500.jpeg"
          
     },
 
     {
-        "id":16,
         "name":"Think and Grow Rich",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"Think and Grow Rich teaches mindset, desire, and action for achieving great success.",
          "price":"$0",
          "category":"Free",
           "author": "Napoleon Hill",
-          "genre": "Technology",
+          "genre": "Motivational",
            "rating":"3.8",
-         "image":"https://img.freepik.com/free-vector/education-concept-set_1284-4734.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://m.media-amazon.com/images/I/61qR8vyLrKL._SL500_.jpg"
          
     },
 
     {
-        "id":17,
-        "name":"Mystery Book",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
+        "name":"The Race of My Life",
+         "title":"The Race of My Life inspires with struggle, discipline, passion, and athletic triumph.",
+         "price":"$20",
          "category":"paid",
-          "author": "J.K. Rowling",
-          "genre": "Mystery",
-         "rating":"4.2",
-         "image":"https://img.freepik.com/free-photo/sorceress-casting-spell-woods-daytime_23-2147902908.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+          "author": "Milkha Singh",
+          "genre": " Autobiography",
+         "rating":"4.5",
+         "image":"https://dtfbooks.com/wp-content/uploads/2023/11/Milkha-Singh-Race-of-my-Life-Biographies-DTF-Books.jpg"
          
     },
 
     {
-        "id":18,
         "name":"Revolution 2020",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"Revolution 2020 explores love, corruption, and ambition in modern Indian youth.",
          "price":"$0",
          "category":"Free",
           "author": "Chetan Bhagat",
-          "genre": "Biography",
+          "genre": " Romance",
           "rating":"3.5",
-         "image":"https://img.freepik.com/free-psd/flat-design-music-template-design_23-2150399076.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://i5.walmartimages.com/asr/6f48fcdd-2b33-4cc4-b927-4903ea7d9b48.7a2bfc3a565a5055b3fea5df137c6208.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
          
     },
 
     {
-        "id":19,
         "name":"The Great Gatsby",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
+         "title":"The Great Gatsby explores wealth, love, illusion, and downfall in 1920s America.",
          "price":"$0",
          "category":"paid",
          "author": "F. Scott Fitzgerald",
-         "genre": "Fantasy",
+         "genre": "Romance",
          "rating":"3.5",
-         "image":"https://img.freepik.com/free-vector/flat-music-education-school-invitation-template_23-2150012782.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://5.imimg.com/data5/SELLER/Default/2022/12/OD/NB/ME/119096088/the-great-gatsby-by-f-scott-fitzgerald-500x500.jpg"
          
     },
 
     {
-        "id":20,
         "name":"The Kite Runner",
-         "title":"Lorem, ipsum dolor sit amet consectetur adipisincing elit consectetur adipisincing elit.",
-         "price":"$0",
+         "title":"The Kite Runner explores friendship, betrayal, guilt, and redemption in Afghanistan.",
+         "price":"$30",
          "category":"paid",
          "author": "Khaled Hosseini",
-         "genre": "Sports",
+         "genre": "Literary Fiction",
          "rating":"4.5",
-         "image":"https://img.freepik.com/free-psd/flat-design-american-football-invitation-template_23-2150736449.jpg?uid=R122565721&ga=GA1.1.1967928030.1749304045&semt=ais_items_boosted&w=740"
+         "image":"https://rezised-images.knhbt.cz/1920x1920/38572804.jpg"
          
     }
 
