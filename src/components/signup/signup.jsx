@@ -27,7 +27,8 @@ const signup = () => {
        const handleUserData = async (userData) => {
         console.log("user", userData)
          try {
-          const response = await axios.post("https://libraryserver-2.onrender.com/api/signup", userData)
+          const response = await axios.post("https://libraryserver-2.onrender.com/api/signup", userData, {withCredentials: true,headers: {" Content-Type": "application/json"}
+});
            console.log("userData", response.data)
            toast.success("SignUp Successfully")
             navigate('/')
