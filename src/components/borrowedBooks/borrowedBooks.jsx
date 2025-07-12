@@ -13,7 +13,7 @@ const borrowedBooks = () => {
 
     const fetchBorrowed = async () => {
         try {
-            const response = await axios.get(`http://localhost:3000/api/borrowed/${userId}`)
+            const response = await axios.get(`https://libraryserver-2.onrender.com/api/borrowed/${userId}`)
             console.log('AllBorrowedData:', response.data)
             setBorrowedBooks(response.data.borrowedBooks)
         } catch (error) {

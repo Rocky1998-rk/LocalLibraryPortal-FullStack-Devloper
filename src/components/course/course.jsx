@@ -28,7 +28,7 @@ const course = () => {
      const getAllBooksData = async () => {
       try {
         
-        const response = await axios.get("http://localhost:3000/api/books");
+        const response = await axios.get("https://libraryserver-2.onrender.com/api/books");
         console.log('allBooksData:', response.data)
         setBookData(response.data)
 

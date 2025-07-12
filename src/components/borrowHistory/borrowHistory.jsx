@@ -10,7 +10,7 @@ const BorrowHistory = () => {
   useEffect(() => {
     const getBorrowHistory = async () => {
       try {
-        const response = await axios.get(`http://localhost:3000/api/history/${userId}`)
+        const response = await axios.get(`https://libraryserver-2.onrender.com/api/history/${userId}`)
         console.log("BorrowHistory:", response.data)
         setHistory(response.data)
       } catch (error) {
